@@ -37,7 +37,7 @@ public class GymManagement {
 	}
 	public String getTrainerName() {
 		return trainerName;
-		
+
 	
 	}
 
